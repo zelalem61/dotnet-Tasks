@@ -22,7 +22,7 @@ class Program
 
     static void Main()
     {
-        string str = "madkam";
-        Console.WriteLine(IsPalindrome(str)); // True
+        string str = "keek";
+        Console.WriteLine(IsPalindrome(str)); 
     }
 }
