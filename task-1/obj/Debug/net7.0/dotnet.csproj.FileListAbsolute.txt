@@ -1,0 +1,14 @@
+C:\Users\Zelalem\Desktop\dotnet\bin\Debug\net7.0\dotnet.exe
+C:\Users\Zelalem\Desktop\dotnet\bin\Debug\net7.0\dotnet.deps.json
+C:\Users\Zelalem\Desktop\dotnet\bin\Debug\net7.0\dotnet.runtimeconfig.json
+C:\Users\Zelalem\Desktop\dotnet\bin\Debug\net7.0\dotnet.dll
+C:\Users\Zelalem\Desktop\dotnet\bin\Debug\net7.0\dotnet.pdb
+C:\Users\Zelalem\Desktop\dotnet\obj\Debug\net7.0\dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zelalem\Desktop\dotnet\obj\Debug\net7.0\dotnet.AssemblyInfoInputs.cache
+C:\Users\Zelalem\Desktop\dotnet\obj\Debug\net7.0\dotnet.AssemblyInfo.cs
+C:\Users\Zelalem\Desktop\dotnet\obj\Debug\net7.0\dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Zelalem\Desktop\dotnet\obj\Debug\net7.0\dotnet.dll
+C:\Users\Zelalem\Desktop\dotnet\obj\Debug\net7.0\refint\dotnet.dll
+C:\Users\Zelalem\Desktop\dotnet\obj\Debug\net7.0\dotnet.pdb
+C:\Users\Zelalem\Desktop\dotnet\obj\Debug\net7.0\dotnet.genruntimeconfig.cache
+C:\Users\Zelalem\Desktop\dotnet\obj\Debug\net7.0\ref\dotnet.dll
