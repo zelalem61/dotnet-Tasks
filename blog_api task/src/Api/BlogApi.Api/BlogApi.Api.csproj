@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.11" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+<ItemGroup>
+        <ProjectReference Include="..\..\src\Core\Application\BlogApi.Application\BlogApi.Application.csproj" />
+        <ProjectReference Include="..\..\src\Core\Domain\BlogApi.Domain\BlogApi.Domain.csproj" />
+        <ProjectReference Include="..\..\src\Infrastructure\BlogApi.Infrastructure\BlogApi.Infrastructure.csproj" />
+        <ProjectReference Include="..\..\src\Infrastructure\BlogApi.Persistence\BlogApi.Persistence.csproj" />
+
+</ItemGroup>
+</Project>

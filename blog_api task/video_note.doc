@@ -1,0 +1,41 @@
+Clean Architecture (Taken from the video resources)
+
+
+What is clean Architecture ?
+
+Clean Architecture(also known as Onion Architecture) is a software architecture pattern that promotes the separation of concerns and 
+the independence of the application's business logic from external dependencies such as frameworks, 
+databases, or user interfaces. It provides a structured and modular approach to designing software systems 
+that are easy to understand, maintain, and test.
+
+key principles of clean architecture(seems like most of the things are there to ease the SOLID design principles)
+- separation of concerns
+- Dependecy Rule
+- Layered Architecture
+- Dependecy Injections
+
+Keypoints related to clean architecture
+
+1. The application is built around the business logic
+2. The business logic is isolated from the external environment
+3. The business logic is technology agnostic
+4. The business logic is framework agnostic
+5. The business logic is isolated from the user interface
+6. The business logic is isolated from the database
+7. The business logic is isolated from external agencies
+
+Importance of Clean Architecture
+- Maintainability
+- Testability
+- Flexibility
+- Scalability
+- Understandability
+
+General Summary
+
+Clean Architecture is a software design philosophy that separates the elements of a design into ring levels.
+The main rule of clean architecture is that code dependencies can only come from the outer levels inward.
+Code on the inner layers can have no knowledge of functions on the outer layers.
+The outer layers can depend on functions on the inner layers.
+
+The other thing is there are different way of writing it you can follow the best that you think is suitable for you.
